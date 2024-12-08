@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeFUSE", "DeFUSE\DeFUSE.csproj", "{1C2A7B20-B29F-4846-A33C-262715F2FFEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeFUSE.Tests", "DeFUSE.Tests\DeFUSE.Tests.csproj", "{082F79E6-2778-42AC-A387-E9C85D9D56DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2A7B20-B29F-4846-A33C-262715F2FFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2A7B20-B29F-4846-A33C-262715F2FFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2A7B20-B29F-4846-A33C-262715F2FFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2A7B20-B29F-4846-A33C-262715F2FFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082F79E6-2778-42AC-A387-E9C85D9D56DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082F79E6-2778-42AC-A387-E9C85D9D56DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082F79E6-2778-42AC-A387-E9C85D9D56DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082F79E6-2778-42AC-A387-E9C85D9D56DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
