@@ -4,12 +4,11 @@
 \
 For fun, I was studying about Distributed FileSystems and since C# is my favorite language, I've decided to create a simple FUSE binding for C#.
 This binding is only working on linux yet. No BSD or OsX support
-## 🌟 Features at a Glance
+## Features 
 
-- **Straightforward Design:** Focused, uncluttered code for developers who value simplicity.
-- **Direct Kernel Access:** Interfaces directly with the kernel, reducing unnecessary overhead.
-- **Efficiency in Mind:** Employs `unsafe` code where necessary to achieve optimal performance.
-- **License** Licensed under MIT for seamless adaptation and integration.
+- **Simple Design:** A simple design without over-engineered OOP
+- **Direct Kernel Access:** Interfaces directly with the kernel, reducing unnecessary overhead. Only uses libfuse to `mount` and `unmount`
+- **Efficiency:** Employs `unsafe` code where necessary to achieve optimal performance.
 
 ## 🛠 Roadmap
 
